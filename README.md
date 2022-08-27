@@ -1,6 +1,6 @@
 # Meta-Learning the Difference
 
-This is the code for the paper "Meta-Learning the Difference: Preparing Large Language Models for Efficient Adaptation" by Zejiang Hou, Julian Salazar, and George Polovets.
+This is the code for the paper [Meta-Learning the Difference: Preparing Large Language Models for Efficient Adaptation](https://arxiv.org/abs/2207.03509) by Zejiang Hou, Julian Salazar, and George Polovets. The paper has been accpeted to Transactions of the Association for Computational Linguistics (TACL).
 
 It is released under the [Apache 2.0 license](LICENSE).
 
